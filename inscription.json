@@ -1,0 +1,887 @@
+[
+    {
+        "inscriptionId": "a6204e7cc4f97037b331c5940175a6dd23b31975597028d48fe8ae3016a0844ci0",
+        "name": "Bank of $ARMZ 1,000 1",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "80ca0bfd99bd1bf846a5477a092c5e33d30f91876f4b087659c2bdd0d75bdb49i0",
+        "name": "Bank of $ARMZ 1,000 2",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "556eef62efd9a33a0175630b7f5d2c4c53c1196737647c2bf70d94cdcc8e21dbi0",
+        "name": "Bank of $ARMZ 1,000 3",
+        "file_name": "BOA#3.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "f25c90c6f9cf08b08fd86fd2b2bf4dfb2790b2c4c99e6d02404f19f8ee67b696i0",
+        "name": "Bank of $ARMZ 1,000 4",
+        "file_name": "BOA#4.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "1e0dc2143962cbd9d157fcb6e4cbff0345e51ce60552eb8034a74121acb769eci0",
+        "name": "Bank of $ARMZ 1,000 5",
+        "file_name": "BOA#5.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "644abc1cca07b3beecafe81f6a5a39532b0cf2d451c76b76710696d4a7aac24ci0",
+        "name": "Bank of $ARMZ 1,000 6",
+        "file_name": "BOA#6.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "94c7c735f9a6fd3f22a1a4de653338d3033c8fe554f10e0f559ee7b104f6036ci0",
+        "name": "Bank of $ARMZ 1,000 7",
+        "file_name": "BOA#7.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "6401640da44899f8548e361ba5fa6ca60b48b37fcf3d574d52503d539b71c23bi0",
+        "name": "Bank of $ARMZ 1,000 8",
+        "file_name": "BOA#8.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "cc2f26bebcd4b107e427909f4314dd7893aa7946ae4a4200d20ad868a80c53b2i0",
+        "name": "Bank of $ARMZ 1,000 9",
+        "file_name": "BOA#9.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "a8fc6ee5e0d102ea21dae814a3b7b6e91f83312f58c20daec0a5ffe4d2cf49dai0",
+        "name": "Bank of $ARMZ 1,000 10",
+        "file_name": "BOA#10.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "8ad805d7fffcfb4728257ac0e7f4cedd40008634620c99467b1aabbbb8269165i0",
+        "name": "Bank of $ARMZ 1,000 11",
+        "file_name": "BOA#11.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "c2def0d62639b4c817829e48ad49bc43fbb5ba90896377f81b7fa7ba76466e7ai0",
+        "name": "Bank of $ARMZ 1,000 12",
+        "file_name": "BOA#12.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "5a99d626d9d0b58a422068c8bdece41eab91a4d20bc2edfa77f0af84388a3a17i0",
+        "name": "Bank of $ARMZ 1,000 13",
+        "file_name": "BOA#13.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "a8ec481a0f36f20375205c715f8b1966ac2e9617500c97df7fa60ba5d08aec04i0",
+        "name": "Bank of $ARMZ 1,000 14",
+        "file_name": "BOA#14.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "cc6498b533355324c8d68ed4c9dda9e55a5b8f6b2a391a92c84edc5de0d12fb0i0",
+        "name": "Bank of $ARMZ 1,000 15",
+        "file_name": "BOA#15.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "6b9f56be86e8587a4f471beab2d7c27d0f17d150eb608a3c9419ee8a89ae10d4i0",
+        "name": "Bank of $ARMZ 1,000 16",
+        "file_name": "BOA#16.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "05d3a0e0bbe3e2a917a1574202caa8c631d17c6bef7eb00b6bae1ab6e977072fi0",
+        "name": "Bank of $ARMZ 1,000 17",
+        "file_name": "BOA#17.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "6da51f44ac140def439d5bc147d51ddaa6dd997b1ed857561eb03c6288471af3i0",
+        "name": "Bank of $ARMZ 1,000 18",
+        "file_name": "BOA#18.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "c72f5596886b9b93d5d73cdc222618530346221579ad989d603d43e9deb6c21ci0",
+        "name": "Bank of $ARMZ 1,000 19",
+        "file_name": "BOA#19.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "ac683bbc63ddad431398bd36f59cc8032367572bef8b77666cd605b8346d2272i0",
+        "name": "Bank of $ARMZ 1,000 20",
+        "file_name": "BOA#20.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "c34439c3d372bd0cf8a5d4f8e2a50c32a32ce5b63908ffcf507126c3f44cbacfi0",
+        "name": "Bank of $ARMZ 1,000 21",
+        "file_name": "BOA#21.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "0917eb340842c107ca69a1e8e6a3838512fd17d86d20c99d36ce651351886c59i0",
+        "name": "Bank of $ARMZ 1,000 22",
+        "file_name": "BOA#22.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "e23b88f29f1f70c00d13a00c607abac185481090498be538994ab1b36d8b1675i0",
+        "name": "Bank of $ARMZ 1,000 23",
+        "file_name": "BOA#23.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "f0bb40a963380b0bd481df17c0f354a9d13e56738c8ad38ed76ff9a2393e80ffi0",
+        "name": "Bank of $ARMZ 1,000 24",
+        "file_name": "BOA#24.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "c0041c9ddedd9354286c24e2c7a538fb030bbb5e795b70762e5aa24f1d046146i0",
+        "name": "Bank of $ARMZ 1,000 25",
+        "file_name": "BOA#25.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "a2726b5b526414374f636f3ecee78d802ffd167c5a08e5ca73be8ee4bd357a01i0",
+        "name": "Bank of $ARMZ 1,000 26",
+        "file_name": "BOA#26.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "4abbd499dd9aec6b82166990f58389f0769f56404f3fcdd68b849fdb2f7f8f6di0",
+        "name": "Bank of $ARMZ 1,000 27",
+        "file_name": "BOA#27.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "8eb674a8df5dfd8be3288d5cd717797b16b0799f5d381885d175b862acf9b0b7i0",
+        "name": "Bank of $ARMZ 1,000 28",
+        "file_name": "BOA#28.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "9122ebe9351ece90d3cc3671e73c727f8a24d59ba32bfa4d4ce8aede84c95299i0",
+        "name": "Bank of $ARMZ 1,000 29",
+        "file_name": "BOA#29.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "bb403398f540b86fabbae0f4b57df926431b296cf8acf2c83399ad0db4dfef12i0",
+        "name": "Bank of $ARMZ 1,000 30",
+        "file_name": "BOA#30.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "c03a61950114c9d7e75359f008d2a61823335ab5d29ec493919e42b52054bfb5i0",
+        "name": "Bank of $ARMZ 1,000 31",
+        "file_name": "BOA#31.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "11ef48f3c1751b0805556260d1bb3685cc5e88256211c6ef89a4b5d7b78ee609i0",
+        "name": "Bank of $ARMZ 1,000 32",
+        "file_name": "BOA#32.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "8b62dd491a9dde15b4fd146db61279af44944a88f595902fa66428b30cf0c96ci0",
+        "name": "Bank of $ARMZ 1,000 33",
+        "file_name": "BOA#33.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "4f18b197d269b2438ef6b3493ecfcf073f13469a338d055df1c5f3365c90a191i0",
+        "name": "Bank of $ARMZ 1,000 34",
+        "file_name": "BOA#34.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "406ae4202923b2d4fd800ce02f11e226800e45481035d1b37019af02dd40e368i0",
+        "name": "Bank of $ARMZ 1,000 35",
+        "file_name": "BOA#35.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "133c8f4501ff29c5dff9d4e336ea00f95242ed7cbb98ba27e5cc720e584bff09i0",
+        "name": "Bank of $ARMZ 1,000 36",
+        "file_name": "BOA#36.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "3d54edfeb24940bc17c03d95a13ed38b3330943efc12eed84e62b02f0ae3d583i0",
+        "name": "Bank of $ARMZ 1,000 37",
+        "file_name": "BOA#37.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "6a061b0f695bbd66546d0ca957d83173569c38a7fbd771a94edb33aeb30add16i0",
+        "name": "Bank of $ARMZ 1,000 38",
+        "file_name": "BOA#38.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "d48806be9d997ba2e5dc7fadb0cce957588913c1ae46f58b35dbfb894675c402i0",
+        "name": "Bank of $ARMZ 1,000 39",
+        "file_name": "BOA#39.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "9bd7b388897fbde2d954e21200d17b790c49497f9c0f51b52b51ea969b9b84cfi0",
+        "name": "Bank of $ARMZ 1,000 40",
+        "file_name": "BOA#40.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "340fe3155a0d1a21101ea9dd8e4b646381ad5ab94f97995c72de712f1680a829i0",
+        "name": "Bank of $ARMZ 1,000 41",
+        "file_name": "BOA#41.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "1f7c403a6b2b664b2ee459f2f66cf99352a42400eb2324b53ddc1bcc3712be4ai0",
+        "name": "Bank of $ARMZ 1,000 42",
+        "file_name": "BOA#42.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "9e8871d398f0f709dbf240482538228d51b4cf3fbd8677a8aaf4b33bf3f7a46ei0",
+        "name": "Bank of $ARMZ 1,000 43",
+        "file_name": "BOA#43.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "fee59ec03716b537ee8674eafd14a84ce162e6c6c4a5325f9d878d2f677c139fi0",
+        "name": "Bank of $ARMZ 1,000 44",
+        "file_name": "BOA#44.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "a9483f7975ca06826ff5ad8c1e6c0350d0fee28419279f0f7fa1e6a800b723eei0",
+        "name": "Bank of $ARMZ 1,000 45",
+        "file_name": "BOA#45.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "e1f8e7def31cb6e34c8556d49c2a055ea5f3f68fefc730f5e9a56b0f9d6e972ei0",
+        "name": "Bank of $ARMZ 1,000 46",
+        "file_name": "BOA#46.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "c4533e34f63eb38f1b74db67ef265ef3ae646a3db331eb4fc859da83a50cb4d6i0",
+        "name": "Bank of $ARMZ 1,000 47",
+        "file_name": "BOA#47.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "71b5ae5b890413f8c99930d3a48b051df6e89675c245ec2c9bda4f1e85c7e75ci0",
+        "name": "Bank of $ARMZ 1,000 48",
+        "file_name": "BOA#48.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "48d3fe7cb418a4d8bc2ce82df37dbd041f342726204077e7fc67c5d00a6033bci0",
+        "name": "Bank of $ARMZ 1,000 49",
+        "file_name": "BOA#49.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "6490a0f1c5da6ae18ac2ffce92636a2f22795ba989be59bea5c570a17fbb5436i0",
+        "name": "Bank of $ARMZ 1,000 50",
+        "file_name": "BOA#50.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "8cd68d6a6e9a1ca250cc0acd4420232e1af22f379ceef5797bdf4bc8a3b97a73i0",
+        "name": "Bank of $ARMZ 1,000 51",
+        "file_name": "BOA#51.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "51c171a7f6634fd6bfbf11d1ddf880420f3606cd3901e282aaeee60316d50d86i0",
+        "name": "Bank of $ARMZ 1,000 52",
+        "file_name": "BOA#52.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "caf74d673a504865ced78b5d8954aed0a44d49a42e68a211165b1ae17e47f210i0",
+        "name": "Bank of $ARMZ 1,000 53",
+        "file_name": "BOA#53.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "dac59716c0b01026c1835ed6b63f13403788b03fb7de4f8857f046b0bb9ff702i0",
+        "name": "Bank of $ARMZ 1,000 54",
+        "file_name": "BOA#54.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "c49637f5aebe3a02895e917588482b6e44e5c30985dc272fb8fdcaca81a502d8i0",
+        "name": "Bank of $ARMZ 1,000 55",
+        "file_name": "BOA#55.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "e5db966273666f6d007019503646841b3935f7a2bd451b06b6749195dac33fcai0",
+        "name": "Bank of $ARMZ 1,000 56",
+        "file_name": "BOA#56.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "c1b1c91fe42d7077d966389b837c075e7a97fec377c49a55c313595dd7fb8adai0",
+        "name": "Bank of $ARMZ 1,000 57",
+        "file_name": "BOA#57.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "23c24dabde2ee1316e5c0b3410d8ccd04924a04310ebe4a4046d2867e6bf35eai0",
+        "name": "Bank of $ARMZ 1,000 58",
+        "file_name": "BOA#58.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "02f1cf77243a6bd433794e8aebb1a6f3e69236dfa7beb3988f9e3085f80bdc05i0",
+        "name": "Bank of $ARMZ 1,000 59",
+        "file_name": "BOA#59.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "5c71adcc64207268ba663ea1be26a4fcf56ce8d4c03ea8612fbe4be4e6801b01i0",
+        "name": "Bank of $ARMZ 1,000 60",
+        "file_name": "BOA#60.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "2897db73340e48fa7547edd03cb8c1264764cca0e82744ec33d644d8705cbbb7i0",
+        "name": "Bank of $ARMZ 1,000 61",
+        "file_name": "BOA#61.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "8bc64d1876838c9a4e55a1f42c7404cdb5b441c6ccce4246ba2bc5abcb73aca2i0",
+        "name": "Bank of $ARMZ 1,000 62",
+        "file_name": "BOA#62.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "a4d950d71d394bbc7c129cb8e566d23ef1c29c8895616fa4730d0c0f40a47dcdi0",
+        "name": "Bank of $ARMZ 1,000 63",
+        "file_name": "BOA#63.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "f83c9a4d1f75ee825c5fedabbd779c29e99521ef089968c4bef11375e42d379ci0",
+        "name": "Bank of $ARMZ 1,000 64",
+        "file_name": "BOA#64.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "4dbc2428bcbdb29e6d088c701b57ede8d137d6f29131b4e030249cbac44b6781i0",
+        "name": "Bank of $ARMZ 1,000 65",
+        "file_name": "BOA#65.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "a22ccf9cbdc24c680753a2136ece8b2166d624407f752e0ed268cd7aadc18bc6i0",
+        "name": "Bank of $ARMZ 1,000 66",
+        "file_name": "BOA#66.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "1b4b41c4a772143391da1ac2050f162bc69262715adf4c11d82c02639179c594i0",
+        "name": "Bank of $ARMZ 1,000 67",
+        "file_name": "BOA#67.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "3a2546b743a11d35dd0cec510f41648999142586abd9393560abeb8baf0c1f5fi0",
+        "name": "Bank of $ARMZ 1,000 68",
+        "file_name": "BOA#68.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "771214501b8426a6f519f17bb17759fbe59300e3b5177139895250bdedf1a20di0",
+        "name": "Bank of $ARMZ 1,000 69",
+        "file_name": "BOA#69.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "25451ab148cf785a630143a158e830bbb1182b9449fe5447f90562c81a8b288bi0",
+        "name": "Bank of $ARMZ 1,000 70",
+        "file_name": "BOA#70.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "0912f493a8e323fbc1f481b1409fa06c6765108733fe8b5f2fb607c6de34f940i0",
+        "name": "Bank of $ARMZ 1,000 71",
+        "file_name": "BOA#71.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "c4db6e8b806209025f3a719679d6d0d25601fc0a73f207643e020a9eb7d384bai0",
+        "name": "Bank of $ARMZ 1,000 72",
+        "file_name": "BOA#72.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "9cc24c7828bb7bcb442c4e48a19f0bd3fd963268d2acf037d8eba5da99025776i0",
+        "name": "Bank of $ARMZ 1,000 73",
+        "file_name": "BOA#73.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "278d80a80ad9772d6074c42a05e7f3f5d89b5f326c7db4e647d26ed0a04ba927i0",
+        "name": "Bank of $ARMZ 1,000 74",
+        "file_name": "BOA#74.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "bc6fbf7816ad44eec9ad7c247c9aac10a35032e51da08acf1f0708c8c8a1a990i0",
+        "name": "Bank of $ARMZ 1,000 75",
+        "file_name": "BOA#75.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "3560686b7db3d48fbbd8300b117b9a4771bc712bed31ed93c28f88ae79b20a02i0",
+        "name": "Bank of $ARMZ 1,000 76",
+        "file_name": "BOA#76.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "16820cefd4b30c325621d4948495a059b9cc9432413c5901587dcaca447debb5i0",
+        "name": "Bank of $ARMZ 1,000 77",
+        "file_name": "BOA#77.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "b586ea6790cfbdc73806893ad90474b1985bf4eae517b352297d82ec8b425609i0",
+        "name": "Bank of $ARMZ 1,000 78",
+        "file_name": "BOA#78.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "12310bf2349ec609f8c79c11f260424952b566e7ed608beb7ff299280bb2154bi0",
+        "name": "Bank of $ARMZ 1,000 79",
+        "file_name": "BOA#79.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "098727aaf3b4142f19b977cb0ebdc7a92bc587ee953b5e9ae6a6853cc5256efei0",
+        "name": "Bank of $ARMZ 1,000 80",
+        "file_name": "BOA#80.html",
+        "attributes": {
+            "Denomination": "1,000"
+        }
+    },
+    {
+        "inscriptionId": "588e0afdeeff7450961cfd8f158e116ae1b4ddc9f50d04e77606e702a03eda8ci0",
+        "name": "Bank of $ARMZ 10,000 81",
+        "file_name": "BOA#81.html",
+        "attributes": {
+            "Denomination": "10,000"
+        }
+    },
+    {
+        "inscriptionId": "3e9673da2f8625c066561ee4523fc72b5b312c79d8ced82031b9cc37f4377546i0",
+        "name": "Bank of $ARMZ 10,000 82",
+        "file_name": "BOA#82.html",
+        "attributes": {
+            "Denomination": "10,000"
+        }
+    },
+    {
+        "inscriptionId": "fc5d90e2df859e3303b5bff002f665e713c0e7c5335ae1372ca6cf7b1092a15ci0",
+        "name": "Bank of $ARMZ 10,000 83",
+        "file_name": "BOA#83.html",
+        "attributes": {
+            "Denomination": "10,000"
+        }
+    },
+    {
+        "inscriptionId": "08427de55a6411de1fb58b4a1a2b7740607fd0a809239637e4c3938780c8d373i0",
+        "name": "Bank of $ARMZ 10,000 84",
+        "file_name": "BOA#84.html",
+        "attributes": {
+            "Denomination": "10,000"
+        }
+    },
+    {
+        "inscriptionId": "c8eb25e2b0760aa85be79091207fb91f398a253198bd57f41a7717d1c022e915i0",
+        "name": "Bank of $ARMZ 10,000 85",
+        "file_name": "BOA#85.html",
+        "attributes": {
+            "Denomination": "10,000"
+        }
+    },
+    {
+        "inscriptionId": "243a82f7838153a3a593b11d7f49cc859024c569d34e74514213cff653f3e225i0",
+        "name": "Bank of $ARMZ 10,000 86",
+        "file_name": "BOA#86.html",
+        "attributes": {
+            "Denomination": "10,000"
+        }
+    },
+    {
+        "inscriptionId": "1e46cfc765bde385898c490457c55316cb3ebd372d3f2f61cab580c4b4251418i0",
+        "name": "Bank of $ARMZ 10,000 87",
+        "file_name": "BOA#87.html",
+        "attributes": {
+            "Denomination": "10,000"
+        }
+    },
+    {
+        "inscriptionId": "ac937c8a26ab07489a17fcbc2b03a0905bef86c6ccbe084738ab2e4f4a622fbbi0",
+        "name": "Bank of $ARMZ 10,000 88",
+        "file_name": "BOA#88.html",
+        "attributes": {
+            "Denomination": "10,000"
+        }
+    },
+    {
+        "inscriptionId": "68ccbaf1a5e1a4c97a867b43b62a97cae7f670c96ad28abd2ee065981f570ef2i0",
+        "name": "Bank of $ARMZ 10,000 89",
+        "file_name": "BOA#89.html",
+        "attributes": {
+            "Denomination": "10,000"
+        }
+    },
+    {
+        "inscriptionId": "e2d2dd9e8da19cb6d08ef620b307e62f38e617d9c2abfcfdeda724ef533c0bedi0",
+        "name": "Bank of $ARMZ 10,000 90",
+        "file_name": "BOA#90.html",
+        "attributes": {
+            "Denomination": "10,000"
+        }
+    },
+    {
+        "inscriptionId": "a80c5f531adbc4798755cc9dd21a04b31e900c1e49f8eb177ef025e6645f5bd9i0",
+        "name": "Bank of $ARMZ 10,000 91",
+        "file_name": "BOA#91.html",
+        "attributes": {
+            "Denomination": "10,000"
+        }
+    },
+    {
+        "inscriptionId": "bdebdb2ea853a99578771a156b458546ff1c9c829a7718444f80f3b3382a78fci0",
+        "name": "Bank of $ARMZ 10,000 92",
+        "file_name": "BOA#92.html",
+        "attributes": {
+            "Denomination": "10,000"
+        }
+    },
+    {
+        "inscriptionId": "eb7bdabf90e0267b19bce31b368f1fab325e440d2ba481cda4c6d52b31af6484i0",
+        "name": "Bank of $ARMZ 10,000 93",
+        "file_name": "BOA#93.html",
+        "attributes": {
+            "Denomination": "10,000"
+        }
+    },
+    {
+        "inscriptionId": "f22638b2408aa7d7b43eb3b1bc2e9bbb9a5b5ae3223e04a1693cc85c8a2ed222i0",
+        "name": "Bank of $ARMZ 10,000 94",
+        "file_name": "BOA#94.html",
+        "attributes": {
+            "Denomination": "10,000"
+        }
+    },
+    {
+        "inscriptionId": "b754ca4e9430df2141e979a4581710c12f931f8760621fae6e0f3317a510fde5i0",
+        "name": "Bank of $ARMZ 10,000 95",
+        "file_name": "BOA#95.html",
+        "attributes": {
+            "Denomination": "10,000"
+        }
+    },
+    {
+        "inscriptionId": "a0cafd84e56dcf1f6be17522f0acf240e3385d928236ad4d79e3ff6dad082195i0",
+        "name": "Bank of $ARMZ 20,000 96",
+        "file_name": "BOA#96.html",
+        "attributes": {
+            "Denomination": "20,000"
+        }
+    },
+    {
+        "inscriptionId": "2b9e2b35fc7734706422ee42751ff53cd809f97235f90c70194026a4757bdb3ci0",
+        "name": "Bank of $ARMZ 20,000 97",
+        "file_name": "BOA#97.html",
+        "attributes": {
+            "Denomination": "20,000"
+        }
+    },
+    {
+        "inscriptionId": "86c8f3b0fd9685356c1dc158872b1e6619a497e6871ed2864e7f270da66385cei0",
+        "name": "Bank of $ARMZ 20,000 98",
+        "file_name": "BOA#98.html",
+        "attributes": {
+            "Denomination": "20,000"
+        }
+    },
+    {
+        "inscriptionId": "b34449d88e17f7af7f3ff4bcad7c983f02a806fecd356d1f6dd8d80bfa61cb9fi0",
+        "name": "Bank of $ARMZ 20,000 99",
+        "file_name": "BOA#99.html",
+        "attributes": {
+            "Denomination": "20,000"
+        }
+    },
+    {
+        "inscriptionId": "b949d3cb91766ac3568880899195ebdba74f6ee5213d68fea86b7e9e333e09e4i0",
+        "name": "Bank of $ARMZ 20,000 100",
+        "file_name": "BOA#100.html",
+        "attributes": {
+            "Denomination": "20,000"
+        }
+    },
+    {
+        "inscriptionId": "a7c27578e4007a8d72c5799aa5e34d155f2d35ca8b79eb3a9c841522ae5ab3bfi0",
+        "name": "Bank of $ARMZ 20,000 101",
+        "file_name": "BOA#101.html",
+        "attributes": {
+            "Denomination": "20,000"
+        }
+    },
+    {
+        "inscriptionId": "61f07ddc84afbf4c3182977e5b9df3954405271279582b10ca61ecbc47a47a2ai0",
+        "name": "Bank of $ARMZ 20,000 102",
+        "file_name": "BOA#102.html",
+        "attributes": {
+            "Denomination": "20,000"
+        }
+    },
+    {
+        "inscriptionId": "f2a9277854e3f4c610a80a29e15006cc61b15bdd44a5c73af6f4eff153297eb7i0",
+        "name": "Bank of $ARMZ 20,000 103",
+        "file_name": "BOA#103.html",
+        "attributes": {
+            "Denomination": "20,000"
+        }
+    },
+    {
+        "inscriptionId": "21b87f192b351604475ee6580b59a683223f2866deccb823fbb282ef4d5bb172i0",
+        "name": "Bank of $ARMZ 50,000 104",
+        "file_name": "BOA#104.html",
+        "attributes": {
+            "Denomination": "50,000"
+        }
+    },
+    {
+        "inscriptionId": "397a7a0438c01f9f6d534aa6b34c15ea83a27ee4fda9c3d3f05a1d91482787aai0",
+        "name": "Bank of $ARMZ 50,000 105",
+        "file_name": "BOA#105.html",
+        "attributes": {
+            "Denomination": "50,000"
+        }
+    },
+    {
+        "inscriptionId": "cde08773bb4c07a3fa0272096d1066fa56d8097a61bc17ea4f3bfe37595136e0i0",
+        "name": "Bank of $ARMZ 50,000 106",
+        "file_name": "BOA#106.html",
+        "attributes": {
+            "Denomination": "50,000"
+        }
+    },
+    {
+        "inscriptionId": "7bfca8d99c2dc4cefb96ca8e0a5457b271af85822109443d8c82dcc6ce62ff85i0",
+        "name": "Bank of $ARMZ 50,000 107",
+        "file_name": "BOA#107.html",
+        "attributes": {
+            "Denomination": "50,000"
+        }
+    },
+    {
+        "inscriptionId": "ff1f97052191618438ff52c0de2283375eb002448dab3da83c25036d4e4bf3dfi0",
+        "name": "Bank of $ARMZ 100,000 108",
+        "file_name": "BOA#108.html",
+        "attributes": {
+            "Denomination": "100,000"
+        }
+    },
+    {
+        "inscriptionId": "b390a7a10b7e48e7ed5ebe32f9e50d820cc139d3fd4d9c3c0aeac60625ee96bai0",
+        "name": "Bank of $ARMZ 100,000 109",
+        "file_name": "BOA#109.html",
+        "attributes": {
+            "Denomination": "100,000"
+        }
+    },
+    {
+        "inscriptionId": "7a796d881462e3be09db0cda4a6b3bcfa1a6c134571c3d07aaf2521cfb12f147i0",
+        "name": "Bank of $ARMZ 100,000 110",
+        "file_name": "BOA#110.html",
+        "attributes": {
+            "Denomination": "100,000"
+        }
+    },
+    {
+        "inscriptionId": "2241796b026e1be58e5d7f6655834114d010ebcc207a4b2b89112f1836e91f47i0",
+        "name": "Bank of $ARMZ 300,000 111",
+        "attributes": {
+            "Denomination": "300,000"
+        }
+    }
+]
