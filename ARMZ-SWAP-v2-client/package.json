@@ -1,22 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "armz-swap",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "concurrently \"nodemon index.js\" \"nodemon transaction-processor.js\"",
-    "server": "nodemon index.js",
-    "processor": "nodemon transaction-processor.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "@bitcoinerlab/secp256k1": "^1.1.1",
-    "async-lock": "^1.4.1",
-    "axios": "^1.7.2",
-=======
   "name": "client",
   "version": "0.1.0",
   "private": true,
@@ -36,24 +18,10 @@
     "@testing-library/user-event": "^13.5.0",
     "assert": "^2.1.0",
     "axios": "^1.7.3",
->>>>>>> b7f84347593aa6440af371fc384c72e71cc19fa0
     "bip32": "^4.0.0",
     "bip39": "^3.1.0",
     "bitcoinjs-lib": "^6.1.6",
     "bitcore-lib-doge": "^10.0.36",
-<<<<<<< HEAD
-    "body-parser": "^1.20.2",
-    "cloudscraper": "^4.6.0",
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2",
-    "mime-types": "^2.1.35",
-    "mongoose": "^8.5.1",
-    "nodemon": "^3.1.4"
-  },
-  "devDependencies": {
-    "concurrently": "^8.2.2"
-=======
     "bn.js": "^5.2.1",
     "buffer": "^6.0.3",
     "coininfo": "^5.2.1",
@@ -103,6 +71,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
->>>>>>> b7f84347593aa6440af371fc384c72e71cc19fa0
   }
 }
